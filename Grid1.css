@@ -231,7 +231,7 @@ padding-top: 10px;
 
 .item {
   text-align: center;
-  background-image: linear-gradient(rgba(250, 100, 100, 0.437), rgba(70, 80, 150, 0.6), rgba(90, 180, 255, 0.4)),url(BI-Characters.jpg);
+  background-image: linear-gradient(rgba(250, 100, 100, 0.437), rgba(70, 80, 150, 0.6), rgba(90, 180, 255, 0.4)),url(assets/images/BI-Characters.jpg);
   border-radius: 3%;
   margin: 2px;
 }
